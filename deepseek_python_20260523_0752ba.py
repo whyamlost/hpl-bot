@@ -13,7 +13,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, ContextTyp
 from telegram.constants import ParseMode
 
 # Bot Token - UPDATED
-BOT_TOKEN = "8682300502:AAEipH6-0YvPgdUHZEiwa2sGjgYtrhlUUP4"
+BOT_TOKEN = "7706140817:AAGOgLS41HppQMsySQUTW60hQHQHADi_CUg"
 
 USER_DATA_FILE = "user_data.json"
 
